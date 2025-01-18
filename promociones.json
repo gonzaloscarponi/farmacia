@@ -1,10 +1,10 @@
 [
     {
-        "image": "https://example.com/promocion1.jpg",
+        "image": "promocion1.jpg",
         "text": "¡Oferta Especial: 20% en medicamentos genéricos!"
     },
     {
-        "image": "https://example.com/promocion2.jpg",
+        "image": "promocion2.jpg",
         "text": "¡Consulta gratuita al comprar suplementos vitamínicos!"
     },
     {
