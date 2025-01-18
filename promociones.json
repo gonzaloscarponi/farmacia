@@ -1,0 +1,22 @@
+[
+    {
+        "image": "https://example.com/promocion1.jpg",
+        "text": "¡Oferta Especial: 20% en medicamentos genéricos!"
+    },
+    {
+        "image": "https://example.com/promocion2.jpg",
+        "text": "¡Consulta gratuita al comprar suplementos vitamínicos!"
+    },
+    {
+        "image": "https://example.com/promocion3.jpg",
+        "text": "¡2x1 en productos de cuidado personal!"
+    },
+    {
+        "image": "https://example.com/promocion4.jpg",
+        "text": "¡Descuento del 30% en protectores solares!"
+    },
+    {
+        "image": "https://example.com/promocion5.jpg",
+        "text": "¡Promoción exclusiva: Lleva 3 y paga 2 en pañales!"
+    }
+]
