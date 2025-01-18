@@ -1,22 +1,22 @@
 [
     {
-        "image": "https://github.com/gonzaloscarponi/farmacia/blob/main/promocion1.jpg",
+        "image": "https://raw.githubusercontent.com/gonzaloscarponi/farmacia/refs/heads/main/promocion1.jpg",
         "text": "¡Oferta Especial: 20% en medicamentos genéricos!"
     },
     {
-        "image": "https://github.com/gonzaloscarponi/farmacia/blob/main/promocion2.jpg",
+        "image": "https://raw.githubusercontent.com/gonzaloscarponi/farmacia/refs/heads/main/promocion2.jpg",
         "text": "¡Consulta gratuita al comprar suplementos vitamínicos!"
     },
     {
-        "image": "https://github.com/gonzaloscarponi/farmacia/blob/main/promocion3.jpg",
+        "image": "https://raw.githubusercontent.com/gonzaloscarponi/farmacia/refs/heads/main/promocion3.jpg",
         "text": "¡2x1 en productos de cuidado personal!"
     },
     {
-        "image": "https://github.com/gonzaloscarponi/farmacia/blob/main/promocion4.jpg",
+        "image": "https://raw.githubusercontent.com/gonzaloscarponi/farmacia/refs/heads/main/promocion4.jpg",
         "text": "¡Descuento del 30% en protectores solares!"
     },
     {
-        "image": "https://github.com/gonzaloscarponi/farmacia/blob/main/promocion5.jpg",
+        "image": "https://raw.githubusercontent.com/gonzaloscarponi/farmacia/refs/heads/main/promocion5.jpg",
         "text": "¡Promoción exclusiva: Lleva 3 y paga 2 en pañales!"
     }
 ]
